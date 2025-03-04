@@ -1,7 +1,7 @@
 # N-Body
 N-Body Simulator made as part of my degree
 
-To run the simulation run Main.py with python3 and select the algorithm, run time, timestep and bodies you wish to simulate and press the "Run Simulation" button.
+To run the simulation download and decompress all files and run Main.py with python3. Select the algorithm, run time, timestep and bodies you wish to simulate and press the "Run Simulation" button.
 To read the results file run Main.py and press the 'Read Previous Results' button, this will open a window with readable data and create a txt file with the readable data called 'SimulationDataOutput.txt. 
 
 The following libraries are needed to run the simulation:
