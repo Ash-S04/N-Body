@@ -1,17 +1,27 @@
 # N-Body
 N-Body Simulator made as part of my degree
 
+The simulation can use either the Euler, Euler-Cromer or Verlet algorithm to estimate the orbit of n-bodies.
+
 To run the simulation download and decompress all files and run Main.py with python3. Select the algorithm, run time, timestep and bodies you wish to simulate and press the "Run Simulation" button.
 To read the results file run Main.py and press the 'Read Previous Results' button, this will open a window with readable data and create a txt file with the readable data called 'SimulationDataOutput.txt. 
 
 The following libraries are needed to run the simulation:
+
 -os
+
 -subprocess
+
 -numpy 2.0.2
+
 -poliastro 0.7.0
+
 -matplotlib 3.10.0
+
 -astropy 7.0.0
+
 -tkinter
+
 
 
 
